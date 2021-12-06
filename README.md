@@ -14,6 +14,8 @@
   </a>
 </div>  
 
+[![DOI](https://zenodo.org/badge/417492568.svg)](https://zenodo.org/badge/latestdoi/417492568)
+
 ## Overview of the course material for the ELIXIR-PT "Introduction to Machine Learning Using R" course
 
 **When**: 15-17 November 2021, 09:30 - 18:30 UTC
@@ -159,7 +161,7 @@ This material is made available under the [Creative Commons Attribution 4.0 Inte
 
 ## Citation
 
-
+Wandrille Duchemin, Crhistian Cardona, Pedro L. Fernandes, & Fotis E. Psomopoulos. (2021). Introduction to Machine Learning (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5752486
 
 Additionnaly, we would like to acknowledge that this training materials draws heavily from :
 
