@@ -16,7 +16,7 @@
 
 [![DOI](https://zenodo.org/badge/417492568.svg)](https://zenodo.org/badge/latestdoi/417492568)
 
-## WORKSHOP: Introduction to Machine Learning in R - from data to knowledge
+## Introduction to Machine Learning in R - from data to knowledge
 
 With the rise in high-throughput sequencing technologies, the volume of omics data has grown exponentially. A major issue is to mine useful knowledge from these heterogeneous collections of data. The analysis of complex high-volume data is not trivial and classical tools cannot be used to explore their full potential. Machine Learning (ML), a discipline in which computers perform automated learning without being programmed explicitly and assist humans to make sense of large and complex data sets, can thus be very useful in mining large omics datasets to uncover new insights that can advance the field of bioinformatics.
 
