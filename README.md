@@ -1,17 +1,17 @@
 
 <div class="sponsor-logos">
   <a href="http://inab.certh.gr/" title="INAB/CERTH">
-    <img style="margin-right:50px" alt="INAB/CERTH" src="static/images/INAB-logo.png" width="60"/>
+    <img style="margin-right:50px" alt="INAB/CERTH" src="static/images/INAB Logo.png" width="150"/>
   </a>
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
-    <img style="margin-right:50px" alt="ELIXIR" src="static/images/ELIXIR-logo.png" width="60"/>
+    <img style="margin-right:50px" alt="ELIXIR" src="static/images/ELIXIR-logo.png" width="100"/>
   </a>  
-  <a href="https://biodata.pt/" title="ELIXIR">
-    <img style="margin-right:50px" alt="ELIXIR" src="static/images/Biodata_ELIXIR.png" width="190"/>
+  <a href="https://www.biocommons.org.au/" title="AustralianBiocommons">
+    <img style="margin-right:50px" alt="AustralianBiocommons" src="static/images/Australian-Biocommons-Logo.png" width="190"/>
   </a>
-  <a href="https://www.igc.gulbenkian.pt/" title="ELIXIR">
+  <!-- <a href="https://www.igc.gulbenkian.pt/" title="ELIXIR">
     <img style="margin-right:50px" alt="ELIXIR" src="static/images/IGC_Black.png" width="130"/>
-  </a>
+  </a> -->
 </div>  
 
 [![DOI](https://zenodo.org/badge/417492568.svg)](https://zenodo.org/badge/latestdoi/417492568)
@@ -22,7 +22,7 @@ With the rise in high-throughput sequencing technologies, the volume of omics da
 
 This hands-on workshop will introduce participants to the ML taxonomy and the applications of common ML algorithms to health data. The workshop will cover the foundational concepts and common methods being used to analyse omics data sets by providing a practical context through the use of basic but widely used R libraries. Participants will acquire an understanding of the standard ML processes, as well as the practical skills in applying them on familiar problems and publicly available real-world data sets.
 
-### Learning outcomes:
+### Learning outcomes
 
 By the end of the workshop you should be able to:
 
@@ -30,21 +30,21 @@ By the end of the workshop you should be able to:
 - Understand the importance of ML in analysing complex, high-volume health-related data
 - Use R packages to implement an ML workflow on real-world dataset, from data preparation to model application and evaluation
 
-### Lead Trainer: 
+### Lead Trainer
 
 Dr **Fotis Psomopoulos**, *Senior Researcher*,  Institute of Applied Biosciences (INAB), Center for Research and Technology Hellas (CERTH)
 
-### Date/Time: 
+### Date/Time 
 
 9 December 2024, 1 - 5 pm AEDT / 12 - 4 pm AEST / 12:30 - 4:30 pm ACDT / 10 am - 2 pm AWST (check in your timezone)
 
 **Location**: Online
 
-### Format:
+### Format
 
 This online workshop will take place over a single 4 hour session. The workshop is delivered in Carpentries style where expert trainers introduce the topic and guide you through hands-on activities to help you put your new skills into action.
 
-### Who the workshop is for:
+### Who the workshop is for
 
 This workshop is for Australian researchers who are or will apply ML to the analysis of omics data as part of their projects. It is suitable for beginners in ML. You must be associated with an Australian organisation for your application to be considered.
 
@@ -53,7 +53,7 @@ This workshop is for Australian researchers who are or will apply ML to the anal
 No previous knowledge of ML is required or expected (please note, that this will be an introductory course to ML)
 Familiarity with the R programming language. If you need a refresher on R/RStudio try the Introduction to R and RStudio section of this online tutorial
 
-### How to apply:
+### How to apply
 
 This workshop is free but participation is subject to application with selection. 
 
