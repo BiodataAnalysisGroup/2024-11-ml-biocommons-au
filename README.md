@@ -16,55 +16,52 @@
 
 [![DOI](https://zenodo.org/badge/417492568.svg)](https://zenodo.org/badge/latestdoi/417492568)
 
-## Overview of the course material for the ELIXIR-PT "Introduction to Machine Learning Using R" course
+## WORKSHOP: Introduction to Machine Learning in R - from data to knowledge
 
-**When**: 15-17 November 2021, 09:30 - 18:30 UTC
+With the rise in high-throughput sequencing technologies, the volume of omics data has grown exponentially. A major issue is to mine useful knowledge from these heterogeneous collections of data. The analysis of complex high-volume data is not trivial and classical tools cannot be used to explore their full potential. Machine Learning (ML), a discipline in which computers perform automated learning without being programmed explicitly and assist humans to make sense of large and complex data sets, can thus be very useful in mining large omics datasets to uncover new insights that can advance the field of bioinformatics.
 
-**Where**: Instituto Gulbenkian de Ciencia, Oeiras, PT
+This hands-on workshop will introduce participants to the ML taxonomy and the applications of common ML algorithms to health data. The workshop will cover the foundational concepts and common methods being used to analyse omics data sets by providing a practical context through the use of basic but widely used R libraries. Participants will acquire an understanding of the standard ML processes, as well as the practical skills in applying them on familiar problems and publicly available real-world data sets.
 
-**Registration**: 
-People should express interest by mailing bicourses [at] igc.gulbenkian.pt 
-as explained under "Contact" in [https://tess.elixir-europe.org/events/machine-learning](https://tess.elixir-europe.org/events/machine-learning)
+### Learning outcomes:
 
+By the end of the workshop you should be able to:
 
-### Instructors and helpers
+- Understand key ML concepts, common algorithms and terminology
+- Understand the importance of ML in analysing complex, high-volume health-related data
+- Use R packages to implement an ML workflow on real-world dataset, from data preparation to model application and evaluation
 
-**Instructors**:
+### Lead Trainer: 
 
-- Wandrille Duchemin (ELIXIR-CH, Basel University, SIB Swiss Institute of Bioinformatics)
-- Crhistian Cardona (ELIXIR-UK, University of Tuebingen)
+Dr **Fotis Psomopoulos**, *Senior Researcher*,  Institute of Applied Biosciences (INAB), Center for Research and Technology Hellas (CERTH)
 
+### Date/Time: 
 
-### Overview
-With the rise in high-throughput sequencing technologies, the volume of omics data has grown exponentially in recent times and a major issue is to mine useful knowledge from these data which are also heterogeneous in nature. Machine learning (ML) is a discipline in which computers perform automated learning without being programmed explicitly and assist humans to make sense of large and complex data sets. The analysis of complex high-volume data is not trivial and classical tools cannot be used to explore their full potential. Machine learning can thus be very useful in mining large omics datasets to uncover new insights that can advance the field of bioinformatics.
+9 December 2024, 1 - 5 pm AEDT / 12 - 4 pm AEST / 12:30 - 4:30 pm ACDT / 10 am - 2 pm AWST (check in your timezone)
 
-This 3-days course will introduce participants to the machine learning taxonomy and the applications of common machine learning algorithms to omics data. The course will cover the common methods being used to analyse different omics data sets by providing a practical context through the use of basic but widely used R libraries. The course will comprise a number of hands-on exercises and challenges where the participants will acquire a first understanding of the standard ML processes, as well as the practical skills in applying them on familiar problems and publicly available real-world data sets.
+**Location**: Online
 
-### Learning objectives
+### Format:
 
-At the end of the course, the participants will be able to:
-- Understand the ML taxonomy and the commonly used machine learning algorithms for analysing “omics” data
-- Understand differences between ML algorithms categories and to which kind of problem they can be applied
-- Understand different applications of ML in different -omics studies
-- Use some basic, widely used R packages for ML
-- Interpret and visualize the results obtained from ML analyses on omics datasets
-- Apply the ML techniques to analyse their own datasets
+This online workshop will take place over a single 4 hour session. The workshop is delivered in Carpentries style where expert trainers introduce the topic and guide you through hands-on activities to help you put your new skills into action.
 
-### Audience and requirements
+### Who the workshop is for:
 
-This course is intended for master and PhD students, post-docs and staff scientists familiar with different omics data technologies who are interested in applying machine learning to analyse these data. No prior knowledge of Machine Learning concepts and methods is expected nor required.
+This workshop is for Australian researchers who are or will apply ML to the analysis of omics data as part of their projects. It is suitable for beginners in ML. You must be associated with an Australian organisation for your application to be considered.
 
 ### Prerequisites
 
-#### Knowledge / competencies
+No previous knowledge of ML is required or expected (please note, that this will be an introductory course to ML)
+Familiarity with the R programming language. If you need a refresher on R/RStudio try the Introduction to R and RStudio section of this online tutorial
 
-Familiarity with any programming language will be required (familiarity with R will be preferable).
+### How to apply:
 
-#### Technical
+This workshop is free but participation is subject to application with selection. 
 
-This course will be in person. You are not required to have your own computer. In order to ensure clear communication between Instructors and participants, we will be using collaborative tools, such as [Google Drive](https://www.google.com/drive/) and/or Google Docs.
+**Applications close at 11:59pm AEST, 24 November 2024.**
 
-_Maximum participants_: 20
+Applications are reviewed by the organising committee and all applicants will be informed of the status of their application (successful, waiting list, unsuccessful). Successful applicants will be provided with a Zoom meeting link closer to the date. More information on the selection process is provided in our Advice on applying for Australian BioCommons workshops.
+
+[Apply here](https://www.eventbrite.com.au/e/workshop-introduction-to-machine-learning-in-r-from-data-to-knowledge-tickets-1066494576989).
 
 ### Schedule
 
