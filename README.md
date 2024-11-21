@@ -67,17 +67,25 @@ Applications are reviewed by the organising committee and all applicants will be
 
 [**Apply here**](https://www.eventbrite.com.au/e/workshop-introduction-to-machine-learning-in-r-from-data-to-knowledge-tickets-1066494576989).
 
-<!-- ### Schedule
+### Schedule
 
-*Note: this schedule is fairly tentative and will adapt to the trainees needs and questions, with the expection of* _**start, stop, break and lunch time which will be scrupulously respected.**_
+*Note: this schedule is fairly tentative and will adapt to the trainees needs and questions, with the expection of* _**start, stop, and break time which will be scrupulously respected.**_
 
-**Day 1** -->
-
-<!-- | Time  |  Details |
+|  Time  |  Details |
 |--------|----------|
-| 09:30 - 10:00 | **Course Introduction**. <br /> <br /> - Welcome. <br /> - Introduction and CoC. <br /> - Way to interact <br /> - Practicalities (agenda, breaks, etc). <br />- Setup <br /> [_Link to material_](episodes/setup.md) |
+| 13:00 - 13:10 | **Course Introduction**. <br /> <br /> - Welcome. <br /> - Introduction and CoC. <br /> - Way to interact <br /> - Practicalities (agenda, breaks, etc). <br />- Setup <br /> [_Link to material_](episodes/setup.md) |
+| 13:10 - 13:20 | **Introduction to Machine Learning** (_theory_) [_Link to material_](episodes/01-intro.md) [_Link to material_](episodes/02-bioinformatics-and-ml.md)|
+| 13:20 - 14:20 | **What is Exploratory Data Analysis (EDA) and why is it useful?** (_hands-on_) <br /><br /> - Loading omics data <br /> - PCA <br /> [_Link to material_](episodes/03-eda.md) |
+| 14:20 - 14:30 |  **Introduction to Unsupervised Learning** (_theory_) |
+| 14:30 - 15:30 |  **Agglomerative Clustering: k-means** (_practical_) [_Link to material_](episodes/04-unsupervised-learning.md) |
+| 15:30 - 15:40 |  **Introduction to Supervised Learning** (_theory_) |
+| 15:40 - 16:40 |  **Building a classifier: decision trees** (_practical_) [_Link to material_](episodes/05-supervised-learning-classification.md) |
+| 16:40 - 17:00 |  _Wrap-up and closing of workshop |
+
+
+<!-- 
 | 10:00 - 10:30 | **Introduction to Machine Learning** (_theory_) |
-| 10:30 - 11:00 | **What is Exploratory Data Analysis (EDA) and why is it useful?** (_hands-on_) <br /><br /> - Loading omics data <br /> - PCA <br /> [_Link to material_](episodes/03-eda.md) |
+| 10:30 - 11:00 | 
 | 11:00 - 11:30 | _Coffee Break_ |
 | 11:30 - 12:30 | **Exploratory Data Analysis - continued** (_hands-on_) |
 | 12:30 - 14:00 | _Lunch break_ |
@@ -85,9 +93,9 @@ Applications are reviewed by the organising committee and all applicants will be
 | 14:30 - 15:00 | **Agglomerative Clustering: k-means** (_practical_) [_Link to material_](episodes/04-unsupervised-learning.md) |
 | 15:00 - 15:30 | _Coffee Break_ |
 | 15:30 - 18:30 | **Agglomerative Clustering: k-means - continued** (_practical_) |
-| 18:30         | _Closing of Day 1_ | -->
+| 18:30         | _Closing of Day 1_ |
 
-<!-- | Presenter |  Activity | Start | Duration (min) |
+| Presenter |  Activity | Start | Duration (min) |
 |---------  |---------- | ----- | -------------- |
 |           | Slack Q&A |       | Whole Workshop |
 | Melissa | **Workshop Day 1 welcome and housekeeping** <br /> - Introduction to workshop | 1:00 AEDT | 10 | -->
