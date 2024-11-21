@@ -21,6 +21,7 @@ install.packages("mlr3")
 install.packages("devtools")
 install.packages("klaR")
 install.packages("kernlab")
+install.packages("ggbiplot")
 
 ## To install needed Bioconductor packages:
 if (!requireNamespace("BiocManager", quietly = TRUE))
@@ -28,9 +29,6 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 BiocManager::install()
 BiocManager::install(c("limma", "edgeR"))
 
-# To install libraries from GitHub source
-library(devtools)
-install_github("vqv/ggbiplot")
 ```
 
 
