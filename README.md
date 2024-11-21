@@ -74,13 +74,13 @@ Applications are reviewed by the organising committee and all applicants will be
 |  Time  |  Details |
 |--------|----------|
 | 13:00 - 13:10 | **Course Introduction**. <br /> <br /> - Welcome. <br /> - Introduction and CoC. <br /> - Way to interact <br /> - Practicalities (agenda, breaks, etc). <br />- Setup <br /> [_Link to material_](episodes/setup.md) |
-| 13:10 - 13:20 | **Introduction to Machine Learning** (_theory_) [_Link to material_](episodes/01-intro.md) [_Link to material_](episodes/02-bioinformatics-and-ml.md)|
+| 13:10 - 13:20 | **Introduction to Machine Learning** (_theory_) [_Link to material_](episodes/01-intro.md) and [_Link to material_](episodes/02-bioinformatics-and-ml.md)|
 | 13:20 - 14:20 | **What is Exploratory Data Analysis (EDA) and why is it useful?** (_hands-on_) <br /><br /> - Loading omics data <br /> - PCA <br /> [_Link to material_](episodes/03-eda.md) |
 | 14:20 - 14:30 |  **Introduction to Unsupervised Learning** (_theory_) |
 | 14:30 - 15:30 |  **Agglomerative Clustering: k-means** (_practical_) [_Link to material_](episodes/04-unsupervised-learning.md) |
 | 15:30 - 15:40 |  **Introduction to Supervised Learning** (_theory_) |
 | 15:40 - 16:40 |  **Building a classifier: decision trees** (_practical_) [_Link to material_](episodes/05-supervised-learning-classification.md) |
-| 16:40 - 17:00 |  _Wrap-up and closing of workshop |
+| 16:40 - 17:00 |  _Wrap-up and closing of workshop_ |
 
 
 <!-- 
