@@ -1,5 +1,14 @@
 [Go to main page](../README.md)
 
+# Information for the workshop 
+
+During the workshop we will provide access to virtual machines will all packages and software preinstalled. These will only during the workshop.
+
+
+# For after the workshop
+
+If you like to continue after the workshop, you'll need to setup the following software and libraries into your own computer.
+
 ## Download R and R Studio
 1. Go to the [CRAN website](https://cran.r-project.org) and follow the instructions to download and install R.
 2. Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
